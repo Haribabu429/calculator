@@ -13,3 +13,6 @@ else:
 
 K = int(input("Enter the factorial number: "))
 print(math.factorial(K))
+
+
+# The above code is factorial code. 
